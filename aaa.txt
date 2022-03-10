@@ -1,3 +1,8 @@
 asdasd
+<<<<<<< HEAD
 asdadfd
+=======
+
+
+>>>>>>> dev2
 chjsajhs
